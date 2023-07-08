@@ -1,1 +1,1 @@
-Script para instalar algunos programas en fedora
+Script para instalar algunos programas en fedora cuando formateo
